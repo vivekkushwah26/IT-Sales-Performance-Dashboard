@@ -144,4 +144,23 @@ IT-sales-performance-dashboard/
 │   └── Product Details.png
 │
 └── README.md
+```
+---
 
+## 🚀 How to Use
+
+1. Download or clone this repository.
+2. Open `IT_Sales_Performance_Dashboard.pbix` using Power BI Desktop.
+3. Refresh the data if required.
+4. Use the available filters, slicers and navigation buttons to explore the dashboard.
+5. Navigate between the Sales Dashboard, Time Intelligence and Product Details pages.
+
+---
+
+## 👤 Author
+
+**Vivek Kushwah**
+
+Data Analyst | Python | SQL | Power BI | Tableau | Machine Learning
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/vivek--kushwah/)
